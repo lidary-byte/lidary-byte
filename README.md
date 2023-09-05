@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=2F76F7&width=435&lines=%E6%84%BF%E6%B0%B8%E8%BF%9C%E8%87%AA%E7%94%B1)](https://git.io/typing-svg)
-
 <span>
   <img alt="Static Badge" src="https://img.shields.io/badge/-Kotlin-%237f52ff?logo=Kotlin&logoColor=white">  
   <img alt="Static Badge" src="https://img.shields.io/badge/-Android-%233ddc84?logo=Android&logoColor=white">
